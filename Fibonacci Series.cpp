@@ -18,7 +18,7 @@ int main()
 		b=c;
 	}
     }
-    else if(n==0)
+    else if(n==1)
     printf("0\n");
     else
     {
